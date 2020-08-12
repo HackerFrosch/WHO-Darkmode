@@ -1,0 +1,30 @@
+v1.2 (11.08.2020)
+	- Überarbeitung des Forums:
+    	1. Anpassungen für Effizienteren Code.
+        2. Behebung von kleinen Grafik-Bugs.
+        3. Rückgängig machen von ausbledung mancher Schaltflächen.
+        4. Farbanpassungen von Beiträgen und Tabellen.
+        5. Farbanpassungen von Zitaten.
+        
+    - Bugfix im PopUp-Chat des Spiels.
+
+
+v1.1 (10.08.2020)
+
+	- Einige Bugfixes auf s1.world-hack.org:
+    	1. Weiße Balken neben Loginfenster entfernt.
+        2. Verbuggte Texte in der Systemübersicht der Rechner beseitigt.
+        3. Hintergrund der Hardware-Auslastung schwarz gemacht.
+        3. Auf der Loginseite die verknüpfungen zu browsergames.info entfernt.
+        4. Unten den Rechten Footer überarbeitet.
+        5. Das Ladesymbol in der Hackkonsole überarbeitet.
+        6. Börsenkurse Schwarz gefärbt.
+        7. Anpassungen beim PopUp-Chat.
+
+
+
+
+v1.0 (20.07.2020)
+
+	- Grundlegender Darkmode für WHO
+    - Inklusive der Seiten: s1.world-hack.org, board.world-hack.org, rechner.world-hack.org
