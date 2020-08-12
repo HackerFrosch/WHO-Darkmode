@@ -1,0 +1,178 @@
+* {
+scrollbar-color: #202324 #454a4d;
+}
+
+html, body, input, textarea, select, button {
+border-color: #736b5e !important;
+color: #e8e6e3 !important;
+}
+
+body {
+background-color: #000000 !important;
+color: green !important;
+background-image: none !important;
+}
+
+#content-viewer div.content-viewer_right-stretch {
+background: none !important;
+}
+
+td, th {
+color: #ada69c !important;
+}
+
+.black {
+color: #ada69c !important;
+}
+
+a {
+color: #00ff00 !important;
+text-decoration-color: currentColor !important;
+}
+
+a:hover {
+color: #009100 !important;
+}
+
+.content-viewer_top {
+display: hidden !important;
+opacity: 0 !important;
+}
+
+.content-viewer_bottom {
+display: none !important;
+opacity: 0 !important;
+}
+
+.content-viewer_left-stretch {
+background-image: none !important;
+}
+
+#login {
+background-image: none !important;
+background-color: black !important;
+}
+
+#login-form {
+background-image: none !important;
+background-color: black !important;
+}
+
+#time {
+background-image: none !important;
+background-color: black !important;
+}
+
+input, select, textarea {
+background-color: #2c3032;
+color: #a8d794;
+border-color: #8c8273;
+}
+
+.hmenu {
+color: #ada69c;
+background-color: #1f2223;
+border-color: #6d665a;
+}
+
+h2 {
+color: #45ff57 !important;
+}
+
+.red {
+color: #f00 !important;
+}
+
+.green {
+color: #00ff19 !important;
+}
+
+.yellow {
+color: #ffe200 !important;
+}
+
+a.link {
+color: #ada69c;
+border-bottom-color: #6d665a;
+background-color: #1f2223;
+}
+
+tr.box:hover {
+background-color: #292c2e;
+}
+
+div#ladebalken {
+background-image: none;
+border-color: #807769;
+background-color: #1f2223;
+}
+
+#prcode {
+background-color: black !important;
+color: #0f0;
+}
+
+#fill {
+color: #0f0 !important;
+background-color: #000 !important;
+}
+
+
+
+/* Ad-Block */
+
+#block_div {
+visibility: hidden;
+}
+
+#sponsorads46554 {
+display: none !important;
+}
+
+#ads {
+display: none !important;
+}
+
+[src="/styles/who_greenhat2/images/line-left.jpg"], [src="/styles/who_greenhat2/images/line-right.jpg"] {
+display: none !important;
+}
+
+#footer_right {
+filter: invert(1) grayscale(1);
+}
+
+[src="styles/who_greenhat2/images/loader.gif"] {
+filter: invert(1);
+}
+
+[style="background-color:#F1F1F1; vertical-align:bottom;"] {
+background-color: black !important;
+}
+
+[alt="Graph"] {
+filter: invert(1) grayscale(1);
+}
+
+[src*=browsergames] {
+display: none !important;
+}
+
+[href="http://www.browsergames.info"] {
+display: none !important;
+}
+
+[src*="styles/who_greenhat2/images/dynamicload/"] {
+filter: invert(1) grayscale(1);
+}
+
+[name="banner"] {
+display: none !important;
+}
+
+[width="50px"], [height="40"] {
+display: none !important;
+}
+
+[name="votes"] {
+display: none !important;
+}
