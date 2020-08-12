@@ -1,0 +1,158 @@
+html {
+background-color: #000 !important;
+}
+
+body {
+background-color: #000 !important;
+color: green !important;
+}
+
+ul {
+background-color: #000 !important;
+}
+
+tr, td, th {
+background-color: #000 !important;
+}
+
+.navbar {
+background-color: #000 !important;
+}
+
+a {
+color: #0f0 !important;
+}
+
+a:hover {
+color: #009100 !important;
+}
+
+.post bg1 unreadpost {
+background-color: #2f2f2f !important;
+}
+
+.post bg2 unreadpost{
+background-color: #464646 !important;
+}
+
+.bg1 {
+    background-color: #222 !important;
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px 2px rgb(153, 153, 153);
+    margin-bottom: 20px !important;
+}
+
+.bg2 {
+    background-color: #222 !important;
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px 2px rgb(153, 153, 153);
+    margin-bottom: 20px !important;
+}
+
+dt, dd {
+color: #ada69c !important;
+}
+
+li.row:hover {
+background-color: unset !important;
+}
+
+.row.bg1 {
+background-color: #000 !important;
+}
+
+.row.bg2 {
+background-color: #000 !important;
+}
+
+ul.profile-icons {
+background: none !important;
+}
+
+.headerbar {
+    background-color: black;
+    filter: grayscale(1);
+}
+
+.p {
+    color: #999 !important;
+}
+
+.signature {
+    color: #999 !important;
+}
+
+.panel {
+    background-color: #555 !important;
+    color: black !important;
+    border: 1px solid #999;
+    box-shadow: 0px 0px 10px #aaa;
+}
+
+blockquote {
+    background-color: #555;
+    border-color: #b7b7b7;
+}
+
+blockquote blockquote {
+    background-color: #999;
+}
+
+.pagination span a:hover {
+    border-color: #999 !important;
+    background-color: #333 !important;
+    color: #FFF !important;
+}
+.pagination span a, .pagination span a:link {
+    background-color: #bbb !important;
+    border-color: #eee !important;
+}
+
+.pagination span strong {
+    color: #FFFFFF;
+    background-color: #555;
+    border-color: #aaa;
+}
+
+.copyright {
+    color: #999;
+}
+
+label {
+    color: #999 !important;
+}
+
+.content h2, .panel h2 {
+    color: #14ff00;
+}
+
+span.corners-top, span.corners-bottom, span.corners-top span, span.corners-bottom span {
+    background-image: none !important;
+}
+
+.forumbg {
+    background-color: black !important;
+}
+
+.forabg {
+    background-color: black !important;
+}
+
+ul.topiclist li.row dl {
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px 2px rgb(153, 153, 153);
+    margin-bottom: 20px !important;
+}
+
+li.row:hover dl:hover {
+    background-color: #444 !important;
+}
+
+
+.row.bg1 {
+    margin-bottom: unset !important;
+}
+
+.row.bg2 {
+    margin-bottom: unset !important;
+}
