@@ -1,0 +1,38 @@
+Neue Geplante Features v1.4:
+
+Forum: 
+	- Animationen
+    
+Spiel:
+	- Animationen
+    
+Rechner: 
+	- Animationen
+
+
+
+
+
+
+Neue Geplante Features v1.3:
+
+Forum:
+	- Austausch aller background-images durch neue (400% auflösung, background-size: cover;)
+    - Tests für img (src) austausch. (DOM-Manipulation?)
+    - Fixen des Tabellen-Bugs bei der Themen-Übersicht (margin-bottom: 20px; bei dl.icon fehler)
+    - Überarbeitung des Seiten-Auswahl buttons bei Thema (hover)
+    - Suchen weiterer Bugs.
+    
+    
+Spiel:
+	- Austausch aller background-images durch neue (400% auflösung, background-size: cover;)
+    - Tests für img (src) austausch. (DOM-Manipulation?)
+    - Suchen weiterer Bugs.
+    
+    
+    
+    
+Erledigt v1.3:
+	- Bugfix: 
+    	1. Text wird schwarz wenn man jemand gedankt hat -> color: white !important;
+        2. Author-Texte sehr dunkel --> Color: #999 !important;
