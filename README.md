@@ -4,7 +4,7 @@ Dies ist die Einrichtungs-Anleitung für den selbst Entwickelten WHO Darkmode v1
 Das ganze ist in CSS geschrieben für das Spiel, das Forum und den Rechner.
 Das ganze wurde in Firefox getestet. 
 
-Bug-Reports oder Vorschläge Ingame (HackerFrosch) oder über E-Mail (xentrahed001@web.de). Für die die meine Nummer haben auch gerne über WhatsApp.
+Bug-Reports oder Vorschläge Ingame (HackerFrosch). Für die die meine Nummer haben auch gerne über WhatsApp.
 Bei Bugreports bitte folgendes angeben: 
 	1. Seite (Spiel, Forum, Rechner)
     2. Code zuletzt aktualisiert (Version)
