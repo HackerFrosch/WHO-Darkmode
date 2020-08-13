@@ -247,6 +247,28 @@ select {
     color: white !important;
 }
 
+.icon-members {
+    background-image: url(https://srv-file20.gofile.io/download/bPvEtm/icon_members.png);
+    background-size: 16px;
+}
+
+.icon-logout {
+    background-image: url(https://srv-file10.gofile.io/download/CTuPvt/icon_logout.png);
+    background-size: 16px;
+}
+
+.icon-ucp {
+    background-image: url(https://srv-file22.gofile.io/download/cLJn5p/pers%C3%B6nlicher_bereich.png);
+    background-size: 16px;
+}
+
+.icon-home {
+    background-image: url(https://srv-file4.gofile.io/download/1h3gR2/icon_home.png);
+    background-size: 13px;
+}
+
+
+
 
 
 
