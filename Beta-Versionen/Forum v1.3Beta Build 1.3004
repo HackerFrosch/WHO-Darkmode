@@ -167,22 +167,22 @@ margin-bottom: unset !important;
 
 
 .reply-icon span {
-background-image: url("https://lh3.google.com/u/0/d/1G2C6j-m6bTyXmZwRy_4cnuCigkfp5r-H=w1600-h797-iv1");
+background-image: url(https://srv-file8.gofile.io/download/FqaqgG/forum_antworten.png);
 background-size: cover;
 }
 
 .quote-icon, .quote-icon a {
-background-image: url("https://lh3.google.com/u/0/d/19WvAiGvMWNGZjetcMpLP_AFNnpSMIgOA=w1600-h511-iv3");
+background-image: url(https://srv-file8.gofile.io/download/EfCRvL/forum_zitieren.png);
 background-size: cover;
 }
 
 [style="background-image: url(./styles/prosilver/imageset/forum_read.gif); background-repeat: no-repeat;"] {
-background-image: url(https://lh3.google.com/u/0/d/1dnUzGGofp5ByKs_QGrad1cOnoCoQYTB7=w1600-h511-iv2) !important;
+background-image: url(https://srv-file4.gofile.io/download/xqe5vZ/forum_gelesen.png) !important;
 background-size: 30px 30px;
 }
 
 [style="background-image: url(./styles/prosilver/imageset/topic_read.gif); background-repeat: no-repeat;"] {
-background-image: url(https://lh3.google.com/u/0/d/1dnUzGGofp5ByKs_QGrad1cOnoCoQYTB7=w1600-h511-iv2) !important;
+background-image: url(https://srv-file4.gofile.io/download/xqe5vZ/forum_gelesen.png) !important;
 background-size: 30px 30px;
 }
 
