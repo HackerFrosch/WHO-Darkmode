@@ -194,6 +194,60 @@ color: #999 !important;
 color: white !important;
 }
 
+#navigation a {
+    background: #444 !important;
+}
+
+#navigation #active-subsection a {
+    color: #D31141 !important;
+    background-color: #777 !important;
+}
+
+.cp-mini {
+    background-color: #555 !important;
+}
+
+#cp-main .panel {
+    background-color: #555 !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+#tabs a span {
+    color: #fff;
+    background: #999 !important;
+    transition: 0.5s background;
+}
+
+#tabs a {
+    background: #999 !important;
+    transition: 0.5s background;
+}
+
+#tabs a:hover span {
+    color: #BC2A4D;
+    background: #bbb !important;
+}
+
+#tabs a:hover {
+    background: #bbb !important;
+}
+
+.inputbox:focus {
+    color: white !important;
+}
+
+.inputbox {
+    background-color: black !important;
+    color: white !important;
+}
+
+select {
+    background-color: #222 !important;
+    color: white !important;
+}
+
+
 
 
 
