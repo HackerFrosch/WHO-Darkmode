@@ -22,7 +22,7 @@ Installations-Anleitung:
 1. Lade dir das Addon Custom Style Script herunter und Installiere es. Das benötigst du, um den Code in die Websites einzubinden.
 
 	Chrome: https://chrome.google.com/webstore/detail/custom-style-script/ecjfaoeopefafjpdgnfcjnhinpbldjij
-    Opera: https://addons.opera.com/de/extensions/details/custom-style-script/
+   	Opera: https://addons.opera.com/de/extensions/details/custom-style-script/
     Firefox: https://addons.mozilla.org/de/firefox/addon/custom-style-script/
     Source-Code: https://github.com/bappi-d-great/custom-style-script
     
@@ -32,6 +32,8 @@ Installations-Anleitung:
 4. Gib die im Code (als Kommentar) angegeben Website-Adressen in die Url-Spalte ein und füge den Code in die "Style (CSS)" spalte ein.
 5. Klicke auf das graue Plus um den Script zu speichern.
 6. Mach dies für alle 3 Websites, die im Code angegeben (und getrennt) sind.
+
+
 
 
 
