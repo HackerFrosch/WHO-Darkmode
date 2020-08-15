@@ -167,22 +167,22 @@ margin-bottom: unset !important;
 
 
 .reply-icon span {
-background-image: url(https://i.ibb.co/yXKpNsq/forum-antworten.png);
+background-image: url(https://i.ibb.co/qsT48X0/forum-antworten.png);
 background-size: cover;
 }
 
 .quote-icon, .quote-icon a {
-background-image: url(https://i.ibb.co/hLdkp71/forum-zitieren.png);
+background-image: url(https://i.ibb.co/gPyTGT3/forum-zitieren.png);
 background-size: cover;
 }
 
 [style="background-image: url(./styles/prosilver/imageset/forum_read.gif); background-repeat: no-repeat;"] {
-background-image: url(https://i.ibb.co/d4PLhNB/forum-gelesen.png) !important;
+background-image: url(https://i.ibb.co/TtgZ4QX/forum-gelesen.png) !important;
 background-size: 30px 30px;
 }
 
 [style="background-image: url(./styles/prosilver/imageset/topic_read.gif); background-repeat: no-repeat;"] {
-background-image: url(https://i.ibb.co/d4PLhNB/forum-gelesen.png) !important;
+background-image: url(https://i.ibb.co/TtgZ4QX/forum-gelesen.png) !important;
 background-size: 30px 30px;
 }
 
@@ -248,37 +248,37 @@ select {
 }
 
 .icon-members {
-    background-image: url(https://i.ibb.co/T0VXqKv/icon-members.png);
+    background-image: url(https://i.ibb.co/KK4DvsK/icon-members.png);
     background-size: 16px;
 }
 
 .icon-logout {
-    background-image: url(https://i.ibb.co/SNcZyvv/icon-logout.png);
+    background-image: url(https://i.ibb.co/rwdkbXv/icon-logout.png);
     background-size: 16px;
 }
 
 .icon-ucp {
-    background-image: url(https://i.ibb.co/803s8kg/icon-ucp.png);
+    background-image: url(https://i.ibb.co/2d7jB4Y/icon-ucp.png);
     background-size: 16px;
 }
 
 .icon-home {
-    background-image: url(https://i.ibb.co/rfsdbhg/icon-home.png);
+    background-image: url(https://i.ibb.co/zP0zh7F/icon-home.png);
     background-size: 13px;
 }
 
 .icon-faq {
-    background-image: url(https://i.ibb.co/ZW0vdjj/icon-faq.png);
+    background-image: url(https://i.ibb.co/BLpKXSL/icon-faq.png);
     background-size: 16px;
 }
 
 .icon-thanks_toplist {
-    background-image: url(https://i.ibb.co/TL2mvQg/icon-thanks-toplist.png);
+    background-image: url(https://i.ibb.co/TqKbFMv/icon-thanks-toplist.png);
     background-size: 15px;
 }
 
 .online {
-    background-image: url(https://i.ibb.co/9W030CF/icon-user-online.png);
+    background-image: url(https://i.ibb.co/swCvWyQ/icon-user-online.png);
     background-size: 58px;
 }
 
