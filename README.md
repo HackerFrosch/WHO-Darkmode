@@ -14,7 +14,7 @@ Das Addon _Custom Style Script_ ist für Firefox, Chrome und Opera verfügbar
 
 
 1. Lade dir das Browser-Addon _Custom Style Script_ für deinen Browser herunter und Installiere es.
-2. Öffne die Einstellungen des Addons ("Open Options Page").
+2. Öffne die Einstellungen des Addons (_Open Options Page_).
 3. Kopiere den Code für die entsprechende Website aus GitHub.
 4. Gib die Website-Adresse in die _URL_-Spalte ein und füge den Code in die _STYLE (CSS)_ spalte ein.
 5. Klicke auf das graue Plus um das Script zu speichern.
@@ -23,13 +23,13 @@ Das Addon _Custom Style Script_ ist für Firefox, Chrome und Opera verfügbar
 
 
 # Website-Liste:
-Dateiname: _Main-Game <Versionsnummer>_
+Dateiname: _Main-Game ..._
 Website: https://world-hack.org
 
-Dateiname: _Forum <Versionsnummer>_
+Dateiname: _Forum ..._
 Website: https://board.world-hack.org
 
-Dateiname: _Rechner <Versionsnummer>_
+Dateiname: _Rechner ..._
 Website: https://rechner.world-hack.org
 
 
