@@ -21,23 +21,35 @@ Installations-Anleitung:
 
 1. Lade dir das Addon Custom Style Script herunter und Installiere es. Das benötigst du, um den Code in die Websites einzubinden.
 
+
 	Chrome: https://chrome.google.com/webstore/detail/custom-style-script/ecjfaoeopefafjpdgnfcjnhinpbldjij
    	Opera: https://addons.opera.com/de/extensions/details/custom-style-script/
-    Firefox: https://addons.mozilla.org/de/firefox/addon/custom-style-script/
-    Source-Code: https://github.com/bappi-d-great/custom-style-script
+	Firefox: https://addons.mozilla.org/de/firefox/addon/custom-style-script/
+	Source-Code: https://github.com/bappi-d-great/custom-style-script
     
     
-2. Öffne die Einstellungen des Addons.
-3. Öffne den Code aus der Cloud.
-4. Gib die im Code (als Kommentar) angegeben Website-Adressen in die Url-Spalte ein und füge den Code in die "Style (CSS)" spalte ein.
-5. Klicke auf das graue Plus um den Script zu speichern.
-6. Mach dies für alle 3 Websites, die im Code angegeben (und getrennt) sind.
+2. Öffne die Einstellungen des Addons ("Open Options Page").
+3. Kopiere den Code für die entsprechende Website aus GitHub.
+4. Gib die Website-Adresse in die "URL"-Spalte ein und füge den Code in die "STYLE (CSS)" spalte ein.
+5. Klicke auf das graue Plus um das Script zu speichern.
+6. Wiederhole dies für die beiden anderen Websites. Die Codes sind in den anderen Dateien gespeichert.
+
+
+
+# Website-Liste:
+Dateiname: Main-Game ...
+Website: https://world-hack.org
+
+Dateiname: Forum ...
+Website: https://board.world-hack.org
+
+Dateiname: Rechner ...
+Website: https://rechner.world-hack.org
 
 
 
 
-
-Updaten des Darkmodes:
+# Updaten des Darkmodes:
 
 Ich kündige im Ingame-Chat, Forum und WhatsApp-Gruppen an, wenn eine neue Version verfügbar ist. 
 Dann füge ich den aktualisierten Code in die Datei in der Cloud ein.
@@ -50,12 +62,3 @@ Um den Darkmode bei euch zu aktualisieren, macht einfach folgendes:
 
 
 
-
-
-Bei Problemen, Vorschlägen oder Bugreports schreibt mir!
-
-
-
-Lg
-
-HackerFrosch
