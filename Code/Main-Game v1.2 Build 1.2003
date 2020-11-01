@@ -1,15 +1,25 @@
+:root {
+--elemgray: #212121;     /* Gray 900 */
+--white: #F5F5F5;       /* Gray 100 */
+--black: #121212;       /* Background */
+--green: #00FF00;       /* Green 900 */
+--gray: #9E9E9E;        /* Gray 400 */
+--gray600: #757575;     /* Gray 600 */
+}
+
+
 * {
 scrollbar-color: #202324 #454a4d;
 }
 
 html, body, input, textarea, select, button {
-border-color: #736b5e !important;
-color: #e8e6e3 !important;
+border-color: var(--gray600) !important;
+color: var(--white) !important;
 }
 
 body {
-background-color: #000000 !important;
-color: green !important;
+background-color: var(--black) !important;
+color: var(--green) !important;
 background-image: none !important;
 }
 
@@ -18,16 +28,16 @@ background: none !important;
 }
 
 td, th {
-color: #ada69c !important;
+color: var(--gray) !important;
 }
 
 .black {
-color: #ada69c !important;
+color: var(--gray) !important;
 }
 
 a {
-color: #00ff00 !important;
-text-decoration-color: currentColor !important;
+color: var(--green) !important;
+transition: 0.2s color;
 }
 
 a:hover {
@@ -50,17 +60,17 @@ background-image: none !important;
 
 #login {
 background-image: none !important;
-background-color: black !important;
+background-color: var(--black) !important;
 }
 
 #login-form {
 background-image: none !important;
-background-color: black !important;
+background-color: var(--black) !important;
 }
 
 #time {
 background-image: none !important;
-background-color: black !important;
+background-color: var(--black) !important;
 }
 
 input, select, textarea {
@@ -70,7 +80,7 @@ border-color: #8c8273;
 }
 
 .hmenu {
-color: #ada69c;
+color: var(--gray);
 background-color: #1f2223;
 border-color: #6d665a;
 }
@@ -108,7 +118,7 @@ background-color: #1f2223;
 }
 
 #prcode {
-background-color: black !important;
+background-color: var(--black) !important;
 color: #0f0;
 }
 
@@ -146,7 +156,7 @@ filter: invert(1);
 }
 
 [style="background-color:#F1F1F1; vertical-align:bottom;"] {
-background-color: black !important;
+background-color: var(--black) !important;
 }
 
 [alt="Graph"] {
