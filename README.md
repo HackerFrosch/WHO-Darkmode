@@ -29,13 +29,13 @@ Source-Code: https://github.com/bappi-d-great/custom-style-script
 
 
 # Website-Liste:
-Dateiname: Main-Game ...
+Dateiname: Main-Game <Versionsnummer>
 Website: https://world-hack.org
 
-Dateiname: Forum ...
+Dateiname: Forum <Versionsnummer>
 Website: https://board.world-hack.org
 
-Dateiname: Rechner ...
+Dateiname: Rechner <Versionsnummer>
 Website: https://rechner.world-hack.org
 
 
