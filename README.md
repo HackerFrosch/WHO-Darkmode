@@ -4,19 +4,12 @@ Dies ist die Einrichtungs-Anleitung für den selbst Entwickelten WHO Darkmode v1
 Das ganze ist in CSS geschrieben für das Spiel, das Forum und den Rechner.
 Das ganze wurde in Firefox getestet. 
 
-Bug-Reports oder Vorschläge Ingame (HackerFrosch). Für die die meine Nummer haben auch gerne über WhatsApp.
-Bei Bugreports bitte folgendes angeben: 
-	1. Seite (Spiel, Forum, Rechner)
-    2. Code zuletzt aktualisiert (Version)
-    3. Genaue beschreibung
-    (4. Wer Ahnung hat, gerne auch Code-beschreibung usw.)
+    
+   
     
     
     
-    
-    
-    
-Installations-Anleitung:
+#_Installations-Anleitung:
 
 
 1. Lade dir das Addon Custom Style Script herunter und Installiere es. Das benötigst du, um den Code in die Websites einzubinden.
