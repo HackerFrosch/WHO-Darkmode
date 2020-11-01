@@ -3,6 +3,7 @@
 Dies ist die Einrichtungs-Anleitung für den selbst Entwickelten WHO Darkmode v1.2.
 Das ganze ist in CSS geschrieben für das Spiel, das Forum und den Rechner.
 Geschrieben und getestet in Firefox. 
+Das Addon _Custom Style Script_ ist für Firefox, Chrome und Opera verfügbar
 
     
    
@@ -12,30 +13,23 @@ Geschrieben und getestet in Firefox.
 # Installations-Anleitung:
 
 
-1. Lade dir das Browser-Addon "Custom Style Script" herunter und Installiere es.
-
-Chrome: https://chrome.google.com/webstore/detail/custom-style-script/ecjfaoeopefafjpdgnfcjnhinpbldjij
-Opera: https://addons.opera.com/de/extensions/details/custom-style-script/
-Firefox: https://addons.mozilla.org/de/firefox/addon/custom-style-script/
-Source-Code: https://github.com/bappi-d-great/custom-style-script
-    
-    
+1. Lade dir das Browser-Addon _Custom Style Script_ für deinen Browser herunter und Installiere es.
 2. Öffne die Einstellungen des Addons ("Open Options Page").
 3. Kopiere den Code für die entsprechende Website aus GitHub.
-4. Gib die Website-Adresse in die "URL"-Spalte ein und füge den Code in die "STYLE (CSS)" spalte ein.
+4. Gib die Website-Adresse in die _URL_-Spalte ein und füge den Code in die _STYLE (CSS)_ spalte ein.
 5. Klicke auf das graue Plus um das Script zu speichern.
 6. Wiederhole dies für die beiden anderen Websites. Die Codes sind in den anderen Dateien gespeichert.
 
 
 
 # Website-Liste:
-Dateiname: Main-Game <Versionsnummer>
+Dateiname: _Main-Game <Versionsnummer>_
 Website: https://world-hack.org
 
-Dateiname: Forum <Versionsnummer>
+Dateiname: _Forum <Versionsnummer>_
 Website: https://board.world-hack.org
 
-Dateiname: Rechner <Versionsnummer>
+Dateiname: _Rechner <Versionsnummer>_
 Website: https://rechner.world-hack.org
 
 
