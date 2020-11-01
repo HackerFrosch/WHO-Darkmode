@@ -23,13 +23,13 @@ Das Addon _Custom Style Script_ ist für Firefox, Chrome und Opera verfügbar
 
 
 # Website-Liste:
-Dateiname: _Main-Game _
+Dateiname: _Main-Game_
 Website: https://world-hack.org
 
-Dateiname: _Forum _
+Dateiname: _Forum_
 Website: https://board.world-hack.org
 
-Dateiname: _Rechner _
+Dateiname: _Rechner_
 Website: https://rechner.world-hack.org
 
 
