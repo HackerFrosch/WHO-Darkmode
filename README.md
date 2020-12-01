@@ -10,7 +10,7 @@ Das Addon _Custom Style Script_ ist für Firefox, Chrome und Opera verfügbar
     
     
     
-# Installations-Anleitung:
+## Installations-Anleitung:
 
 
 1. Lade dir das Browser-Addon _Custom Style Script_ für deinen Browser herunter und Installiere es.
@@ -22,7 +22,7 @@ Das Addon _Custom Style Script_ ist für Firefox, Chrome und Opera verfügbar
 
 
 
-# Website-Liste:
+## Website-Liste:
 Dateiname: _Main-Game_
 Website: https://world-hack.org
 
@@ -35,7 +35,7 @@ Website: https://rechner.world-hack.org
 
 
 
-# Updaten des Darkmodes:
+## Updaten des Darkmodes:
 
 Ich kündige im Ingame-Chat, Forum und WhatsApp-Gruppen an, wenn eine neue Version verfügbar ist. 
 Dann füge ich den aktualisierten Code in die Datei in der Cloud ein.
