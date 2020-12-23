@@ -1,190 +1,214 @@
+/******************************************
+
+ Design-Variablen
+ 
+******************************************/
+
 :root {
---elemgray: #212121;     /* Gray 900 */
---white: #F5F5F5;       /* Gray 100 */
---black: #121212;       /* Background */
---green: #00FF00;       /* Green 900 */
---gray: #9E9E9E;        /* Gray 400 */
---gray600: #757575;     /* Gray 600 */
+  --primary-color: #00FF00;
+  --background: #121212;
+  --primary-text: #F5F5F5;
+  --secondary-text: #9E9E9E;
+  --border-color: #757575;
+  --loader-filters: invert(1);
+  --icon-filters: invert(1) grayscale(1);
+  --special-filters: invert(1) contrast(2);
 }
 
+/* Standart-Variablen Dunkles Design
+
+  primary-color: #00FF00
+  background: #121212
+  primary-text: #F5F5F5
+  secondary-text: #9E9E9E
+  border-color: #757575
+  loader-filters: invert(1)
+  icon-filters: invert(1) grayscale(1)
+  special-filters: invert(1) contrast(2)
+
+*/
+
+
+
+
+
+/******************************************
+
+ CSS-Code
+ 
+******************************************/
 
 * {
-scrollbar-color: #202324 #454a4d;
+  scrollbar-color: #202324 #454a4d;
 }
 
 html, body, input, textarea, select, button {
-border-color: var(--gray600) !important;
-color: var(--white) !important;
+border-color: var(--border-color) !important;
+color: var(--primary-text) !important;
 }
 
 body {
-background-color: var(--black) !important;
-color: var(--green) !important;
-background-image: none !important;
+  background-color: var(--background) !important;
+  color: var(--primary-color) !important;
+  background-image: none !important;
 }
 
 #content-viewer div.content-viewer_right-stretch {
-background: none !important;
+  background: none !important;
 }
 
 td, th {
-color: var(--gray) !important;
+  color: var(--secondary-text) !important;
 }
 
 .black {
-color: var(--gray) !important;
+  color: var(--secondary-text) !important;
 }
 
 a {
-color: var(--green) !important;
-transition: 0.2s color;
+  color: var(--primary-color) !important;
+  transition: 0.2s color;
 }
 
 a:hover {
-color: #009100 !important;
+  color: #009100 !important;
 }
 
 .content-viewer_top {
-display: hidden !important;
-opacity: 0 !important;
+  display: hidden !important;
+  opacity: 0 !important;
 }
 
 .content-viewer_bottom {
-display: none !important;
-opacity: 0 !important;
+  display: none !important;
+  opacity: 0 !important;
 }
 
 .content-viewer_left-stretch {
-background-image: none !important;
+  background-image: none !important;
 }
 
-#login {
-background-image: none !important;
-background-color: var(--black) !important;
-}
-
-#login-form {
-background-image: none !important;
-background-color: var(--black) !important;
-}
-
-#time {
-background-image: none !important;
-background-color: var(--black) !important;
+#login, #login-form, #time {
+  background-image: none !important;
+  background-color: var(--background) !important;
 }
 
 input, select, textarea {
-background-color: #2c3032;
-color: #a8d794;
-border-color: #8c8273;
+  background-color: #2c3032;
+  color: #a8d794;
+  border-color: var(--border-color);
 }
 
 .hmenu {
-color: var(--gray);
-background-color: #1f2223;
-border-color: #6d665a;
+  color: var(--secondary-text);
+  background-color: #1f2223;
+  border-color: #6d665a;
 }
 
 h2 {
-color: #45ff57 !important;
+  color: #45ff57 !important;
 }
 
 .red {
-color: #f00 !important;
+  color: #f00 !important;
 }
 
 .green {
-color: #00ff19 !important;
+  color: #00ff19 !important;
 }
 
 .yellow {
-color: #ffe200 !important;
+  color: #ffe200 !important;
 }
 
 a.link {
-color: #ada69c;
-border-bottom-color: #6d665a;
-background-color: #1f2223;
+  color: #ada69c;
+  border-bottom-color: #6d665a;
+  background-color: #1f2223;
 }
 
 tr.box:hover {
-background-color: #292c2e;
+  background-color: #292c2e;
 }
 
 div#ladebalken {
-background-image: none;
-border-color: #807769;
-background-color: #1f2223;
+  background-image: none;
+  border-color: #807769;
+  background-color: #1f2223;
 }
 
 #prcode {
-background-color: var(--black) !important;
-color: #0f0;
+  background-color: var(--background) !important;
+  color: var(--primary);
 }
 
 #fill {
-color: #0f0 !important;
-background-color: #000 !important;
+  color: var(--primary) !important;
+  background-color: #000 !important;
 }
 
+*::selection {
+  background-color: #888;
+  color: var(--primary-text);
+}
 
 
 /* Ad-Block */
 
 #block_div {
-visibility: hidden;
+  visibility: hidden;
 }
 
 #sponsorads46554 {
-display: none !important;
+  display: none !important;
 }
 
 #ads {
-display: none !important;
+  display: none !important;
 }
 
 [src="/styles/who_greenhat2/images/line-left.jpg"], [src="/styles/who_greenhat2/images/line-right.jpg"] {
-display: none !important;
+  display: none !important;
 }
 
 #footer_right {
-filter: invert(1) grayscale(1);
+  filter: var(--icon-filters);
 }
 
 [src="styles/who_greenhat2/images/loader.gif"] {
-filter: invert(1);
+  filter: var(--loader-filters);
 }
 
 [style="background-color:#F1F1F1; vertical-align:bottom;"] {
-background-color: var(--black) !important;
+  background-color: var(--background) !important;
 }
 
 [alt="Graph"] {
-filter: invert(1) grayscale(1);
+  filter: var(--icon-filters);
 }
 
 [src*=browsergames] {
-display: none !important;
+  display: none !important;
 }
 
 [href="http://www.browsergames.info"] {
-display: none !important;
+  display: none !important;
 }
 
 [src*="styles/who_greenhat2/images/dynamicload/"] {
-filter: invert(1) grayscale(1);
+  filter: var(--icon-filters);
 }
 
 [name="banner"] {
-display: none !important;
+  display: none !important;
 }
 
 [width="50px"], [height="40"] {
-display: none !important;
+  display: none !important;
 }
 
 [name="votes"] {
-display: none !important;
+  display: none !important;
 }
 
 
@@ -195,13 +219,13 @@ display: none !important;
 
 
 [src="styles/who_greenhat2/images/symbols/spy.png"] {
-    filter: invert(1) contrast(2);
+  filter: var(--special-filters);
 }
 
 [src="styles/who_greenhat2/images/symbols/break.png"] {
-    filter: invert(1) contrast(2);
+  filter: var(--special-filters);
 }
 
 [src="styles/who_greenhat2/images/symbols/stop.png"] {
-    filter: invert(1) contrast(2);
+  filter: var(--special-filters);
 }
