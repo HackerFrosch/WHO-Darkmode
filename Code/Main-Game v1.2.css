@@ -240,3 +240,7 @@ fieldset {
     padding: 1px 4px;
     outline: none !important;
 }
+#fill {
+    color: var(--primary) !important;
+    background-color: #121212 !important;
+}
