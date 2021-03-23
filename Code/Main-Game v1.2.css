@@ -1,5 +1,4 @@
 /******************************************
-
  Design-Variablen
  
 ******************************************/
@@ -16,7 +15,6 @@
 }
 
 /* Standart-Variablen Dunkles Design
-
   primary-color: #00FF00
   background: #121212
   primary-text: #F5F5F5
@@ -25,7 +23,6 @@
   loader-filters: invert(1)
   icon-filters: invert(1) grayscale(1)
   special-filters: invert(1) contrast(2)
-
 */
 
 
@@ -33,7 +30,6 @@
 
 
 /******************************************
-
  CSS-Code
  
 ******************************************/
@@ -228,4 +224,19 @@ div#ladebalken {
 
 [src="styles/who_greenhat2/images/symbols/stop.png"] {
   filter: var(--special-filters);
+}
+#overDiv * {
+    background-color: #212121 !important;
+    color: #fff !important;
+}
+fieldset {
+    border-radius: 8px;
+}
+#blocks div.block_style div.block {
+    border-radius: 0px 0px 8px 8px;
+}
+#changepc {
+    border-radius: 4px !important;
+    padding: 1px 4px;
+    outline: none !important;
 }
